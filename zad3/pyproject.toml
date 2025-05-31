@@ -1,0 +1,10 @@
+[project]
+name = "isotools"
+version = "0.1.0"
+description = "a package for analyzing and reading media images."
+authors = ["herniezz"]
+requires-python = ">=3.7"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta" 

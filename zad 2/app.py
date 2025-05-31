@@ -16,7 +16,7 @@ mapowane_kolorki = {
 
 NAZWY_KOLOROW = list(mapowane_kolorki.keys())
 
-# Przykładowe wyświetlenie kolorów
+# wyswietlanie kolorow
 print(Fore.RED + 'Ten tekst jest czerwony')
 print(Fore.GREEN + Back.YELLOW + 'Ten tekst jest zielony na żółtym tle')
 print(Fore.BLUE + Style.BRIGHT + 'Ten tekst jest jasno niebieski i pogrubiony')
